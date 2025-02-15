@@ -2,7 +2,9 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\ClubMembership;
 use Illuminate\Http\Request;
+
 
 class ClubMembershipController extends Controller
 {
